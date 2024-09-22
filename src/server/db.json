@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "nip": "AQI-22092024-001",
+      "firstName": "Audi",
+      "lastName": "Putra",
+      "address": "Jl. RA. Kosasih",
+      "position": "Programmer",
+      "salary": 8000000,
+      "division": "IT",
+      "workingStatus": "Contract",
+      "birthDate": "26-05-2000",
+      "joinDate": "22-09-2024",
+      "id": "bc32"
+    },
+    {
+      "id": "b86e",
+      "nip": "AQI-21092024-002",
+      "firstName": "Yuda",
+      "lastName": "Emanuel",
+      "address": "Jl. Nangka",
+      "position": "Staff",
+      "salary": 7000000,
+      "division": "Acounting",
+      "workingStatus": "Contract",
+      "birthDate": "03-12-1997",
+      "joinDate": "21-09-2024"
+    },
+    {
+      "id": "97e0",
+      "nip": "AQI-13112024-003",
+      "firstName": "Aldira",
+      "lastName": "Putra",
+      "address": "Jl. Ciaul",
+      "position": "Programmer",
+      "salary": 8000000,
+      "division": "IT",
+      "workingStatus": "Contract",
+      "birthDate": "27-05-2000",
+      "joinDate": "13-11-2024"
+    },
+    {
+      "nip": "AQI-22092024-004",
+      "firstName": "Sofyan",
+      "lastName": "Abdulah",
+      "address": "Jl. Durian",
+      "position": "Staff",
+      "salary": 4000000,
+      "division": "Engineering",
+      "workingStatus": "Internship",
+      "birthDate": "20-10-2000",
+      "joinDate": "22-09-2024",
+      "id": "3d20"
+    }
+  ]
+}
